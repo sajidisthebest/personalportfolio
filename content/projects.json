@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Where Your $5,000 Paycheck Actually Goes",
+    "client": "Personal Finance",
+    "category": "Finance",
+    "image": "assets/thumbnails/hero-paycheck-taxes.webp",
+    "stat": "High tension",
+    "featured": true
+  },
+  {
+    "title": "The 50/25/15/10 Money Rule",
+    "client": "Wealth Strategy",
+    "category": "Finance",
+    "image": "assets/thumbnails/hero-budget-percentages.webp",
+    "stat": "Visual payoff",
+    "featured": true
+  },
+  {
+    "title": "Boring = Rich: The 5-Step Blueprint",
+    "client": "Financial Freedom",
+    "category": "Business",
+    "image": "assets/thumbnails/hero-boring-rich.webp",
+    "stat": "Simple hook",
+    "featured": true
+  },
+  {
+    "title": "$300/Day Passive Income System",
+    "client": "Wealth Creation",
+    "category": "Finance",
+    "image": "assets/thumbnails/finance-300-day.webp",
+    "stat": "5.7% CTR",
+    "featured": true
+  },
+  {
+    "title": "Why You Shouldn't Buy the S&P 500",
+    "client": "Market Insights",
+    "category": "Finance",
+    "image": "assets/thumbnails/finance-sp500.webp",
+    "stat": "Curiosity gap",
+    "featured": true
+  },
+  {
+    "title": "Step-by-Step: From $0 to $500/Day",
+    "client": "Online Business",
+    "category": "Finance",
+    "image": "assets/thumbnails/finance-500-day.webp",
+    "stat": "Clear hook",
+    "featured": true
+  },
+  {
+    "title": "Earn $600 While You Sleep (PayPal Proof)",
+    "client": "Passive Income",
+    "category": "Finance",
+    "image": "assets/thumbnails/finance-paypal-600.webp",
+    "stat": "Story-led",
+    "featured": true
+  },
+  {
+    "title": "The 2026 Crash Has Already Started",
+    "client": "Macro Economics",
+    "category": "Finance",
+    "image": "assets/thumbnails/finance-market-crash.webp",
+    "stat": "High urgency",
+    "featured": true
+  },
+  {
+    "title": "1 Min vs 1 Day: Japanese Ramen Chef",
+    "client": "Food & Culture",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-ramen-chef.webp",
+    "stat": "High CTR",
+    "featured": true
+  },
+  {
+    "title": "Surviving in a Secret Underground Bunker",
+    "client": "Challenge Studio",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-bunker-flashlight.webp",
+    "stat": "Story tension",
+    "featured": true
+  },
+  {
+    "title": "Surrounded by 10 Real Samurai Swords",
+    "client": "Action Challenge",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-samurai-swords.webp",
+    "stat": "High contrast",
+    "featured": true
+  },
+  {
+    "title": "Exposing a Fake Tarot Card Psychic",
+    "client": "Investigation Lab",
+    "category": "Documentary",
+    "image": "assets/thumbnails/showcase-tarot-psychic.webp",
+    "stat": "Curiosity gap",
+    "featured": true
+  },
+  {
+    "title": "What 15 Days Trapped in an Oven Does",
+    "client": "Extreme Experiments",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-chicken-oven.webp",
+    "stat": "Fast read",
+    "featured": true
+  },
+  {
+    "title": "Medellín: The Truth Behind the City",
+    "client": "Global Explorer",
+    "category": "Documentary",
+    "image": "assets/thumbnails/showcase-medellin-travel.webp",
+    "stat": "Visual payoff",
+    "featured": true
+  },
+  {
+    "title": "Deadliest Giant Bee Sting Experiment",
+    "client": "Wild Science",
+    "category": "Documentary",
+    "image": "assets/thumbnails/showcase-bee-sting.webp",
+    "stat": "Shock value",
+    "featured": true
+  },
+  {
+    "title": "I Gave a 13-Year-Old a Supercar",
+    "client": "Vlog Channel",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-redcar-passenger.webp",
+    "stat": "Story hook",
+    "featured": true
+  },
+  {
+    "title": "Extreme Water Jousting Tournament",
+    "client": "Sports Challenge",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-water-jousting.webp",
+    "stat": "High energy",
+    "featured": false
+  },
+  {
+    "title": "Testing a 300kg Impossible Gym Lift",
+    "client": "Fitness Elite",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-gym-workout.webp",
+    "stat": "Extreme feat",
+    "featured": false
+  },
+  {
+    "title": "We Tied 258 Balloons to a Robot Cat",
+    "client": "Viral Lab",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-balloons-cat.webp",
+    "stat": "Fun concept",
+    "featured": false
+  },
+  {
+    "title": "Hour 13 in a Lucha Libre Ring",
+    "client": "Pro Wrestling",
+    "category": "Entertainment",
+    "image": "assets/thumbnails/showcase-wrestling-mask.webp",
+    "stat": "Drama hook",
+    "featured": false
+  }
+]
